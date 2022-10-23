@@ -1,0 +1,3 @@
+services:
+  testing-bsecure:
+    image: ${DESKTOP_PLUGIN_IMAGE}
